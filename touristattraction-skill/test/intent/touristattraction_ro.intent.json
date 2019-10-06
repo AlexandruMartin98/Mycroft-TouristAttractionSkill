@@ -1,0 +1,5 @@
+{
+    "intent_type": "touristattraction_summary.intent",
+    "utterance": "spune despre {locatia}"
+}
+

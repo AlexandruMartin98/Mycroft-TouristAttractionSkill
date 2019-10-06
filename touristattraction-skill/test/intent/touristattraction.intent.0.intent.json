@@ -1,0 +1,6 @@
+{
+    "expected_dialog": "touristattraction",
+    "intent_type": "touristattraction.intent",
+    "utterance": "Can you tell me a tourist attraction?"
+}
+
